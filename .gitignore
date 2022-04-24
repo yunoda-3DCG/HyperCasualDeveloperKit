@@ -1,0 +1,14 @@
+*.csproj
+*.sln
+*.userprefs
+.vs/
+.vscode/
+/Library/
+/Temp/
+/obj/
+/.idea
+*.mp4
+release/
+Plugins/
+Packages/packages-lock.json
+Packages/manifest.json
